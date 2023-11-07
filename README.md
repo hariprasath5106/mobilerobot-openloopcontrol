@@ -76,7 +76,8 @@ if _name_ == '_main_':
     ep_camera.stop_video_stream()
     print("Stopped video streaming.....")
 
-    ep_robot.close()```
+    ep_robot.close()
+```
 
 ## MobileRobot Movement Image:
 
