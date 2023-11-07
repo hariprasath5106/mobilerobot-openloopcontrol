@@ -92,10 +92,9 @@ https://youtu.be/wR3m9QyEGT8?si=X_rOKWj3jncRso1_
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-```
-##NAME: HARIPRASATH S
-##REG: 212222240034
-```
+## NAME: HARIPRASATH S
+## REG: 212222240034
+
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
